@@ -291,7 +291,7 @@ header.shadow{
     }
     
 }
-@media (max-width: 360px){
+@media (max-width: 240px){
     header {
         padding: 9px 4px;
     }
