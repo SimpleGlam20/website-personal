@@ -291,3 +291,14 @@ header.shadow{
     }
     
 }
+@media (max-width: 360px){
+    header {
+        padding: 9px 4px;
+    }
+    .logo img{
+        width: 45px;
+    }
+    .home-text{
+        padding-top: 15px;
+    }
+}
