@@ -286,6 +286,8 @@ header.shadow{
     header{
         padding: 12px 4%;
     }
-    
+    #menu-icon {
+        display: initial;
+    }
     
 }
